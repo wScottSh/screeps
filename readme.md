@@ -1,0 +1,1 @@
+As of December 9, 2017 I knew very little about programming, JavaScript, or AI. I'm using this as my way of learning how to program in general, but mostly to program in an adaptable and useful sort of way. Being faced with ever changing problems to overcome seemed like a good idea for a beginner like myself.
